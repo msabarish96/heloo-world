@@ -1,3 +1,3 @@
 # heloo-world
 new repository
-this the new branch in master repository
+this is the new repository created and create a new branch named readme-edit
